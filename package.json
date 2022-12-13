@@ -1,0 +1,14 @@
+{
+  "name": "ipfs-with-cloudflare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/konojunya/ipfs-with-cloudflare.git",
+  "author": "Junya Kono <junya03dance@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve -s public"
+  },
+  "devDependencies": {
+    "serve": "^14.1.2"
+  }
+}
